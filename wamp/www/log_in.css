@@ -1,0 +1,141 @@
+ p[name$="ftt"]{color:yellow;text-align:center;}
+ p[name$="ftt2"]{color:brown;text-align:center;}
+ 
+ p[name="or"]{font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:rgb(75,0,130);
+ left:950px;
+ top:300px;
+ position:fixed;
+ font-size:22px;
+ }
+ 
+ 
+ #nr1{
+ font-size:17px;
+ position:fixed;
+ top: 60px;
+ left: 900px;
+
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:rgb(75,0,130);
+ }
+ 
+ #nr2{
+ font-size:17px;
+ top:20px;
+ position:fixed;
+ left:920px;
+ height:30px;
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:rgb(75,0,130);
+ }
+ 
+ #nr3{
+ font-size:17px;
+ top:95px;
+ position:fixed;
+ left:920px;
+
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:rgb(75,0,130);
+ }
+ 
+  #nr4{
+ font-size:17px;
+ position:fixed;
+ top: 135px;
+ left: 900px;
+ 
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:rgb(75,0,130);
+ }
+ #nr5{
+ font-size:17px;
+ position:fixed;
+ top: 200px;
+ left: 895px;
+ 
+ }
+ 
+
+ input#log_in{
+padding: 4px 20px;
+cursor:pointer; 
+background:#ffae00; 
+
+border:2px outset #dad9d8;
+font-family:Andika, Arial, sans-serif; 
+font-size:1.1em;
+letter-spacing:0.05em;
+text-transform:uppercase;
+color:#fff;
+text-shadow: 0px 1px 10px #000;
+
+border-radius: 15px;
+height:30px;width:145px
+}
+input#pss{
+
+    background: white; 
+    border: 1px solid #ffa853; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px 3px #ffa853; 
+    color: #666; 
+    outline: none; 
+    height:23px; 
+    width: 130px; 
+
+ }
+ input#usr{
+
+    background: white; 
+    border: 1px solid #ffa853; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px 3px #ffa853; 
+    color: #666; 
+    outline: none; 
+    height:23px; 
+    width: 130px; 
+
+ }
+input#acount{
+  float:left;
+  margin-top:370px;
+  margin-left:865px;
+   width: 200px;
+   cursor:pointer; 
+  height: 50px; color: #fff; 
+  background-color: #125182; 
+  text-align: center; font-size: 15px; 
+  line-height: 50px; 
+   border-radius: 30px; 
+    }
+
+#mesaj{
+ font-size:17px;
+ position:fixed;
+ top: 270px;
+ left: 830px;
+ color:red;
+}
+body{
+background: url('images/img_body_log_in.jpg') no-repeat #f6f1b9;
+background-size:800px;
+position:fixed;
+height:100%;
+width:100%;
+
+}
+footer{
+background: url('images/img_footer.jpg') ;
+position:fixed;
+bottom:0;
+width:100%;
+font-size:27px; 
+left:0;
+}

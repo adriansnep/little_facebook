@@ -1,0 +1,92 @@
+
+
+.picture_grp1{
+background: url('images/profile_img1.jpg') no-repeat  ;
+background-size:30px;
+position:absolute;
+height:100%;
+width:100%;
+left:10px;
+}
+#cht3{
+position:fixed;
+top:255px;
+left:465px;
+}
+#num{
+position:fixed;
+top:218px;
+left:525px;
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+ color:blue;
+}
+
+#friends_grp1{
+border-color: rgba(255, 150, 100, 0.5);
+background-color: #FAEBD7;
+position:absolute;
+left:40px;
+width:280px;
+top:50px;
+height:400px;
+overflow-y:auto; 
+}
+p[name$="frd_grp1"]{
+color: #00C5CD;
+    font-size: 25px;
+ font-family:"Times New Roman", Times, serif;
+ font-style:italic;
+top:-15px;
+position:absolute;
+left:50px;
+}
+
+#img1_grp1{
+position:absolute;
+top:50px;
+left:10px;
+
+}
+#friend1_grp1{
+position:absolute;
+font-size: 20px;
+font-family:"Times New Roman", Times, serif;
+top:50px;
+left:50px;
+color: green;
+}
+
+#img2_grp1{
+position:absolute;
+top:80px;
+left:10px;
+
+}
+#friend2_grp1{
+position:absolute;
+font-size: 20px;
+font-family:"Times New Roman", Times, serif;
+top:80px;
+left:50px;
+color: green;
+}
+#img3_grp1{
+position:absolute;
+top:110px;
+left:10px;
+
+}
+#friend3_grp1{
+position:absolute;
+font-size: 20px;
+font-family:"Times New Roman", Times, serif;
+top:110px;
+left:50px;
+color: red;
+}
+#grp{
+position:fixed;
+left:40px;
+top:200px;
+}
